@@ -129,4 +129,3 @@ buildozer android debug
 - Python 3.10+, PyTorch 2.0+, numpy, Pillow, matplotlib, scipy
 - Optional: transformers (for Qwen router evaluation)
 
-> （注：部分内容由豆包 AI 生成）
